@@ -13,3 +13,5 @@ Shows the content list with more information (hidden included).
 Shows LIST with NUMBERS.
 (vii) 6-firstdirectory:
 Creates a directory in tmp.
+(viii) 7-movethatfile:
+Moves betty to my_first_directory in /tmp.
