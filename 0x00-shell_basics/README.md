@@ -37,3 +37,5 @@ Deletes all files that ends with '~' in the current directory.
 Creates directory welcome/to/school.
 (xix) 103-commas:
 List all files & Directories  addes ',' after files and '/' after directories and sorts them.
+(xx) school.mgc:
+at 0 offset there is a STRING which is SCHOOL search key is School and it is a mime type ?
