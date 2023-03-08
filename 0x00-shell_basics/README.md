@@ -21,3 +21,5 @@ Deletes betty (NO! NOT BETTY!).
 Deletes my_first_directory.
 (xi) 10-back:
 You can go back now interesting!
+(xii) 11-lists:
+Listing 101.
