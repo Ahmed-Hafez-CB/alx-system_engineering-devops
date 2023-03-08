@@ -29,3 +29,5 @@ Shows file type specifically iamafile in /tmp.
 Creates a Symolib link to bin/ls.
 (xv) 14-copy_html:
 Copies all .html files from current directory to parent directory while checking for updated files.
+(xvi) 100-lets_move:
+Moves all files that starts with uppercase to /tmp/u.
