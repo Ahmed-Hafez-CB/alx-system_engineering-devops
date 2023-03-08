@@ -35,3 +35,5 @@ Moves all files that starts with uppercase to /tmp/u.
 Deletes all files that ends with '~' in the current directory.
 (xviii) 102-tree:
 Creates directory welcome/to/school.
+(xix) 103-commas:
+List all files & Directories  addes ',' after files and '/' after directories and sorts them.
