@@ -31,3 +31,5 @@ Creates a Symolib link to bin/ls.
 Copies all .html files from current directory to parent directory while checking for updated files.
 (xvi) 100-lets_move:
 Moves all files that starts with uppercase to /tmp/u.
+(xvii) 101-clean_emacs:
+Deletes all files that ends with '~' in the current directory.
