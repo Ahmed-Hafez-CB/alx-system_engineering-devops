@@ -17,3 +17,5 @@ Creates a directory in tmp.
 Moves betty to my_first_directory in /tmp.
 (ix) 8-firstdelete:
 Deletes betty (NO! NOT BETTY!).
+(x) 9-firstdirdeletion:
+Deletes my_first_directory.
