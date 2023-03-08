@@ -9,5 +9,7 @@ Goes back to home directory.
 Shows the content list in a long formate of the directory.
 (v) 4-listmorefiles:
 Shows the content list with more information (hidden included).
-(vi) 5-listfilesdigitonly.
-Shows LIST with NUMBERS
+(vi) 5-listfilesdigitonly:
+Shows LIST with NUMBERS.
+(vii) 6-firstdirectory:
+Creates a directory in tmp.
