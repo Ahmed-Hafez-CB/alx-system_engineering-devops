@@ -33,3 +33,5 @@ Copies all .html files from current directory to parent directory while checking
 Moves all files that starts with uppercase to /tmp/u.
 (xvii) 101-clean_emacs:
 Deletes all files that ends with '~' in the current directory.
+(xviii) 102-tree:
+Creates directory welcome/to/school.
