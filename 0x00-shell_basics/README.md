@@ -25,3 +25,5 @@ You can go back now interesting!
 Listing 101.
 (xiii) 12-file_type:
 Shows file type specifically iamafile in /tmp.
+(xiv) 13-symbolic_link:
+Creates a Symolib link to bin/ls.
