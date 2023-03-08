@@ -15,3 +15,5 @@ Shows LIST with NUMBERS.
 Creates a directory in tmp.
 (viii) 7-movethatfile:
 Moves betty to my_first_directory in /tmp.
+(ix) 8-firstdelete:
+Deletes betty (NO! NOT BETTY!).
