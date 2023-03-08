@@ -7,3 +7,5 @@ Shows the content list of the directory.
 Goes back to home directory.
 (iv) 3-listfiles:
 Shows the content list in a long formate of the directory.
+(v) 4-listmorefiles:
+Shows the content list with more information (hidden included).
