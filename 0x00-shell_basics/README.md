@@ -23,3 +23,5 @@ Deletes my_first_directory.
 You can go back now interesting!
 (xii) 11-lists:
 Listing 101.
+(xiii) 12-file_type:
+Shows file type specifically iamafile in /tmp.
